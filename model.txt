@@ -1,4 +1,0 @@
-1,ASIS
-2,PSIS
-3,AIIS
-4,PIIS
